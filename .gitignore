@@ -1,0 +1,28 @@
+.gitconfig
+.jdks/
+.lesshst
+.ssh/
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Creative Cloud Files/
+Downloads/
+Favorites/
+IdeaProjects/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{00138f0c-7895-11ed-adbb-d5894464f527}.TM.blf
+NTUSER.DAT{00138f0c-7895-11ed-adbb-d5894464f527}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{00138f0c-7895-11ed-adbb-d5894464f527}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+PycharmProjects/Python/
+PycharmProjects/Spotify/
+RR/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+phython/
